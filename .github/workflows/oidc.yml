@@ -6,7 +6,7 @@
 # documentation.
 name: AWS example workflow
 on:
-  push
+  push:
     branches:
       - main
 env:
